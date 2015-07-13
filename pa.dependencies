@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "Hima-Dev/android_kernel_htc_msm8994",
+    "revision": "cm-12.1",
+    "target_path": "kernel/htc/msm8994"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "revision": "cm12.0",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_hardware_qcom_fm",
+    "revision": "cm-12.0",
+    "target_path": "hardware/qcom/fm"
+  }
+]
