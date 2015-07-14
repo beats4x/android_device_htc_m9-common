@@ -2,7 +2,7 @@
     {
         "remote":      "github",
         "repository":  "Hima-Dev/android_kernel_htc_msm8994",
-        "target_path": "kernel/htc/msm8994"
+        "target_path": "kernel/htc/msm8994",
         "revision":    "cm-12.1"
     },
     {
@@ -19,7 +19,7 @@
     {
         "remote":      "github",
         "repository":  "CyanogenMod/android_external_mm-dash",
-        "target_path": "external/mm-dash"
+        "target_path": "external/mm-dash",
         "revision":    "cm-12.1"
     },
     {
